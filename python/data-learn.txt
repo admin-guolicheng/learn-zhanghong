@@ -1,0 +1,10 @@
+# python 基础资料如下：
+http://c.biancheng.net/python/
+
+
+
+
+
+
+# django学习：django是python里面的web框架，功能全面
+https://code.ziqiangxuetang.com/django/django-tutorial.html
